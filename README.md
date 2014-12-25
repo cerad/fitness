@@ -1,12 +1,9 @@
 Symfony Fitness Application
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new applications.
+Started on 2.6.1.
 
-This document contains information on how to download, install, and start
-using Symfony. For a more detailed explanation, see the [Installation][1]
-chapter of the Symfony Documentation.
+Do I use attributes or properties?
 
 1) Installing the Standard Edition
 ----------------------------------
