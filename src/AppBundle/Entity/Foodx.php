@@ -27,7 +27,9 @@ class Foodx
     
     protected $carbohydrate; // g
     protected $carbFiber;
-    protected $carbSugar;
+    protected $carbFiberSoluble;
+    protected $carbFiberInSoluble;
+    protected $carbSugar;0  0
     
     protected $protein;
     protected $alcohol;
